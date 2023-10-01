@@ -1,5 +1,5 @@
 ### Web Server information
-This configuration will launch a web server that's hosting a web server application written in Python-Django with postrgreSQL database. *You can access it on port 8000*
+This configuration will launch a web server that's hosting a web server application written in Python-Django with postrgreSQL database. **You can access it on port 8000**
 
 ### About included SSH Keys
 Keys were added intentionally to ease setup for demo/test environment as well as quick connection via SSH.  
